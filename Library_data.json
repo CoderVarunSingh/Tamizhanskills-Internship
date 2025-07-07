@@ -1,0 +1,38 @@
+{
+    "books": [
+        {
+            "id": "5648",
+            "title": "math 4",
+            "author": "rs agarwal"
+        },
+        {
+            "id": "5401",
+            "title": "math 4",
+            "author": "np bali"
+        },
+        {
+            "id": "5405",
+            "title": "operating system ",
+            "author": "js rocker"
+        },
+        {
+            "id": "5410",
+            "title": "java introduction",
+            "author": "james gosling"
+        }
+    ],
+    "issued": [
+        {
+            "book_id": "5462",
+            "student": "varun simgh",
+            "issue_date": "2025-06-27",
+            "due_date": "2025-07-11"
+        },
+        {
+            "book_id": "5410",
+            "student": "varun singh",
+            "issue_date": "2025-06-27",
+            "due_date": "2025-07-11"
+        }
+    ]
+}
